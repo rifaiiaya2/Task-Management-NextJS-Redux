@@ -80,7 +80,7 @@ const TaskList = () => {
       </div>
       <div className="row mt-5">
         <div className="col-md-12 d-flex justify-content-end mt-5">
-          <button className="btn btn-success text-light fs-6 text m-2 mt-5" onClick={handleGoToHome}>Go To Complete Page<MdArrowForward className="ms-1" /></button>
+          <button className="btn btn-success text-light fs-6 text m-2 mt-5" onClick={handleGoToHome}>Go To Home Page<MdArrowForward className="ms-1" /></button>
         </div>
       </div>
     </div>
